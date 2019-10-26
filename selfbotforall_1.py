@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import asyncio
-SELF_BOT_TOKEN = "TOKEN HERE"
+SELF_BOT_TOKEN = "NTkwMzk2Mjg2NjkyNDkxMjY2.XbOggg.1H0TSojfD44Mvqv3A-F6RitmSuE"
 selfbot = commands.Bot(command_prefix='$$$$$$')
 
 
