@@ -1,0 +1,10 @@
+2019-10-22T02:25:58.811609+00:00 heroku[worker.1]: State changed from starting to up
+2019-10-22T02:26:04.649873+00:00 app[worker.1]: Logged in as TRIVIA TIME (ID:590396286692491266) | Connected to 3 servers | Connected to 739 users
+2019-10-22T02:26:04.649919+00:00 app[worker.1]: --------
+2019-10-22T02:26:04.649928+00:00 app[worker.1]: --------
+2019-10-22T02:26:04.649931+00:00 app[worker.1]: Created by niloj
+2019-10-22T02:26:56.520846+00:00 app[api]: Scaled to worker@0:Free by user monuraj3131@gmail.com
+2019-10-22T02:26:56.71186+00:00 heroku[worker.1]: State changed from up to down
+2019-10-22T02:26:57.513491+00:00 heroku[worker.1]: Stopping all processes with SIGTERM
+2019-10-22T02:26:57.60106+00:00 heroku[worker.1]: Process exited with status 143
+2019-10-22T02:31:45+00:00 app[api]: Build started by user monuraj3131@gmail.com
